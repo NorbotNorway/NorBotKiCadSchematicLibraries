@@ -29,4 +29,9 @@ D Teensy 3.1/3.2 (made by Frode Lillerud)
 K Teensy Norbot
 $ENDCMP
 #
+$CMP WS2812B
+D RGB LED
+K rgb led
+$ENDCMP
+#
 #End Doc Library
