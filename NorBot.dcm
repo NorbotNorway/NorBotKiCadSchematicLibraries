@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESP8266_ESP-12
+D ESP8266 ESP-12E
+K WiFi
+$ENDCMP
+#
 $CMP GP2Y0E02B
 D i2c sensor, 4-50cm
 K sharp ir norbot
