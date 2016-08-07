@@ -15,13 +15,22 @@ D Accelerometer, three-axis MEMS
 K accelerometer mems
 $ENDCMP
 #
+$CMP MP23AB02B
+D MEMS Microphone
+$ENDCMP
+#
 $CMP MPU-6050
 D MPU-6050 MEMS
 K accelerometer gyroscope
 $ENDCMP
 #
 $CMP TCA9548APWR
-D i2c multiplexer, 8 channels
+D i2c multiplexer, 8 channels, TSSOP-24
+K i2c Norbot
+$ENDCMP
+#
+$CMP TCA9548ARGER
+D i2c multiplexer, 8 channels, VQFN-24
 K i2c Norbot
 $ENDCMP
 #
