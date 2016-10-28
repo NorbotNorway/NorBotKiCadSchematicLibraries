@@ -10,6 +10,11 @@ D i2c sensor, 4-50cm
 K sharp ir norbot
 $ENDCMP
 #
+$CMP MK20DX256VLH7
+D 32 Bit Microcontroller, K2 USB Series, ARM Cortex-M4, 72 MHz, 256 KB, 64 KB, 64 Pins, LQFP
+K Teensy
+$ENDCMP
+#
 $CMP MMA8452Q
 D Accelerometer, three-axis MEMS
 K accelerometer mems
@@ -26,6 +31,11 @@ $ENDCMP
 #
 $CMP TCA9548APWR
 D i2c multiplexer, 8 channels, TSSOP-24
+K i2c Norbot
+$ENDCMP
+#
+$CMP TCA9548ARGER
+D i2c multiplexer, 8 channels, VQFN-24
 K i2c Norbot
 $ENDCMP
 #
