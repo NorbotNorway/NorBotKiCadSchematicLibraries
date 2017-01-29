@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESP-WROOM-32
+D ESP-WROOM-32
+K ESP32 WIFI BLUETOOTH BT
+$ENDCMP
+#
 $CMP ESP8266_ESP-12
 D ESP8266 ESP-12E
 K WiFi
@@ -12,6 +17,11 @@ $ENDCMP
 #
 $CMP MK20DX256VLH7
 D 32 Bit Microcontroller, K2 USB Series, ARM Cortex-M4, 72 MHz, 256 KB, 64 KB, 64 Pins, LQFP
+K Teensy
+$ENDCMP
+#
+$CMP MKL02Z32VFG4
+D 32 Bit Microcontroller, Kinetis L Series Ultra Low Power, ARM Cortex-M0+, 48 MHz, 32 KB, 4 KB
 K Teensy
 $ENDCMP
 #
