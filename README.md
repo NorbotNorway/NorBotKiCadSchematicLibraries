@@ -5,6 +5,7 @@ Our own custom created schematic components for KiCad
 
 * ADXL345 (accelerometer)
 * ESP8266 ESP-12
+* ESP-WROOM-32
 * GP2Y0E02 (i2c sensor, 4-50 cm)
 * HM-11 (Bluetooth)
 * HMC5883 (compass)
