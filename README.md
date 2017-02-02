@@ -4,6 +4,7 @@ NorBots custom KiCad schematic components
 Our own custom created schematic components for KiCad
 
 * ADXL345 (accelerometer)
+* C2102 (USB-to-UART bridge, QFN-28)
 * ESP8266 ESP-12
 * ESP-WROOM-32
 * GP2Y0E02 (i2c sensor, 4-50 cm)
