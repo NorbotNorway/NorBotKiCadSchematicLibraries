@@ -63,6 +63,10 @@ D i2c temperature sensor
 K temp celsius norbot
 $ENDCMP
 #
+$CMP TSOP753
+D IR Receiver, 38kHz
+$ENDCMP
+#
 $CMP Teensy31_32
 D Teensy 3.1/3.2 (made by Frode Lillerud)
 K Teensy Norbot
